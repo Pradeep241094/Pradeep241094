@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## This is Pradeep Margasahayam Prakash 👋🏼👨🏻‍💻
+## This is Pradeep Margasahayam Prakash 👨🏻‍💻
 
 
 
@@ -9,7 +9,7 @@
 
 </br>
 
-## **About Me**🧔🏻
+## **About Me** 🙋🏽‍♂️
 
 I work as a Software Engineer specializing in JavaScript technologies contributing towards Cisco Intersight - An Hybrid SaaS based Infrastructure management platform. Know I bring my academic knowledge and Industrial experience gained from design to launch to being a holistic Software Engineer.
 
@@ -21,7 +21,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 
 </br>
 
-## **My Work**👨🏻‍💻
+## **My Work** 🧑‍💻
 
 - Building complex user experience for web applications using Javascript Libraries majorly React, Redux and Polymer JS in a Micro Frontend based architecture.
 - Developing cross-platform mobile applications using React-Native, Expo and Redux middleware
@@ -42,7 +42,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 
  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Pradeep241094&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
 
-## **My Tech** 👨🏻‍🔧
+## **My Tech** 👨🏻‍👨‍🏭
 
 <img width="36px" alt="javascript" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-javascript.svg">&nbsp;
 <img width="46px" alt="react" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-react-native.svg">&nbsp;
