@@ -17,7 +17,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 - Creating backend server applications and designing RESTful API's using NodeJs, Express, MongoDB.
 - Integrate AWS Services using javascript SDK and Boto3 Library using Python to optimize resource utilizations of the Application Servers.
 
-</br></br>
+</br>
 
 <p>
 
