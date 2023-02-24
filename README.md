@@ -15,7 +15,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 - Designed and Developed modular User Interface using Javascript Libraries majorly React, Redux and Polymer JS in a Micro Frontend based architecture.
 - Handle Scaling issues on Frontend Applications 
 - Creating backend server applications and designing RESTful API's using NodeJs, Express, MongoDB.
-- Integrate AWS Services using javascript SDK and Boto3 Library using Python to optimize resource utilizations of the Application Servers.
+- Integrate AWS Services using javascript SDK and Boto3 Library with Python to optimize resource utilizations of the Application Servers.
 
 </br>
 
