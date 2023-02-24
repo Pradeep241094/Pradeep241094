@@ -28,7 +28,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 - Creating backend server applications and designing RESTful API's using NodeJs, Express, MongoDB
 
 
-## **A bit more on the Research Projects which i have been part of**📖🎓
+## **A bit more on the Research Projects which i have been part of **📖🎓
 
 - <a href="https://dl.acm.org/doi/10.1145/3401025.3401739">ByzGame: byzantine generals game</a> Byzantine Fault Tolerance (BFT) has gained renewed interest due to its usage as the core primitive in building consensus in blockchains. One of the primary challenges with BFT is understanding the theory behind it. Numerous BFT protocols have been proposed; unfortunately some of them have had correctness issues. We present ByzGame, a web application that uniquely connects a frontend visualization to a backend BFT implementation, and makes both BFT consensus theory and implementation more understandable. Our evaluation among two groups of students demonstrates that ByzGame can greatly increase the effectiveness in teaching and learning both fundamental and advanced topics related to BFT. 
 
