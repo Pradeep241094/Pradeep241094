@@ -30,6 +30,7 @@ so far I have enjoyed coding 👨🏻‍💻 JavaScript, Systems Analysis and De
 <img width="46px" alt="nodejs" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-nodejs.svg">&nbsp;
 <img width="46px" alt="aws" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-amazon-web-services.svg">&nbsp;
 <img width="36px" alt="css" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-css3.svg">&nbsp;
+<img width="36px" alt="css" src="https://raw.githubusercontent.com/Pradeep241094/Pradeep241094/main/icons8-python.svg">&nbsp;
 
 </p>
 
